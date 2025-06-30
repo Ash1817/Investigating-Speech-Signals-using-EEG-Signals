@@ -1,7 +1,7 @@
 
 # Investigating Speech Signals Using BCI
 
-https://github.com/AbaiKumar/Investigating-Speech-Signals-using-EEG-Signals/blob/33aebaee4dd22a55c4c77a008971cba1bc2c42e5/Output%20Screenshots/ML.mp4
+
 
 ## Abstract:
 
